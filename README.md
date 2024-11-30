@@ -52,7 +52,7 @@ pip install pandas matplotlib scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/iris-classification.git
+git clone https://github.com/prajwalsable99/Machine-learning-Example-Iris-Data
 ```
 
 2. Navigate to the project directory and open the Jupyter Notebook:
